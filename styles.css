@@ -1,6 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto&display=swap');
+
 body {
   text-align: center;
   background-color: #011F3F;
+}
+
+#title{
+  font-family: 'Oswald', sans-serif;
+  font-size: 4rem;
+  color: #FEF2BF;
 }
 
 #level-title {
